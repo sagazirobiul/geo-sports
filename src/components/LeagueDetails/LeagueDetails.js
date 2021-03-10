@@ -41,13 +41,13 @@ const LeagueDetails = () => {
                     <p className='my-4'>{strDescriptionES}</p>
                 </div>
                 <div className="socialLink text-center ">
-                    <a href={`https://${strTwitter}`} target='_blank'>
+                    <a href={`https://${strTwitter}`}>
                         <li><FontAwesomeIcon icon={faTwitter} /></li>
                     </a>
-                    <a href={`https://${strFacebook}`} target='_blank'>
+                    <a href={`https://${strFacebook}`}>
                         <li><FontAwesomeIcon icon={faFacebook} /></li>
                     </a>
-                    <a href={`https://${strYoutube}`} target='_blank'>
+                    <a href={`https://${strYoutube}`}>
                         <li><FontAwesomeIcon icon={faYoutube} /></li>
                     </a>
                 </div>
