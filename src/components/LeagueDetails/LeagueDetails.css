@@ -1,0 +1,70 @@
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url('../../images/stadium6.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 2rem 0;
+}
+.banner img {
+    width: 200px;
+    margin-top: 10vh;
+}
+.leagueDetails{
+    padding-bottom: 1.5rem;
+}
+.playersPic img {
+    width: 100%;
+}
+.details {
+    background: linear-gradient( #00d2d3,#07b3b3);
+    color: white;
+    border-radius: 1rem;
+    margin: 1rem 0;
+    padding: 0.8rem 0;
+}
+.leagueName {
+    background: #343A40;
+    border-radius: 20px;
+    text-align: center;
+}
+.leagueName:hover {
+    background: white;
+    color: #05BCBD;
+    transition: 0.3s;
+}
+.leagueName h3 {
+    padding: 5px 0;
+}
+.details p {
+    font-weight: 500;
+    font-size: 16px;
+}
+.iconDesign {
+    margin-right: 0.6rem;
+    color: black;
+}
+.description p {
+    font-size: 1rem;
+}
+.socialLink {
+    margin-top: 0.6rem;
+}
+.socialLink li {
+    color: #343A40;
+    font-size: 1.5rem;
+    list-style: none;
+    display: inline-block;
+    padding: 0.4rem 0.6rem;
+    border-radius: 0.5rem;
+    margin: 0.5rem;
+    background: #00d2d3;
+}
+.socialLink li:hover {
+    color: #00d2d3;
+    background: #343A40;
+    transition: 0.3s;
+}
+
+

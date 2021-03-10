@@ -1,0 +1,23 @@
+.leagueCard {
+    background: transparent!important;
+    border: 0!important;
+}
+.card-img {
+    background: #00d2d3;
+    border-top-left-radius: 1.2rem!important;
+    border-top-right-radius: 1.2rem!important;
+}
+.cardDetails{
+    background-color: #343A40;
+    color: white!important;
+    border-bottom-left-radius: 1.2rem!important;
+    border-bottom-right-radius: 1.2rem!important;
+}
+.card-img img {
+    padding: 30px;
+    object-fit: cover;
+}
+
+.nextIcon {
+    margin-left: 0.5rem;
+}
