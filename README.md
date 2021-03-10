@@ -1,1 +1,2 @@
-<h2>React-router project</h2> || <bold><a href='https://geo-sports.netlify.app/'>Live site</a></bold>
+<h2>React-router project</h2>
+Project Name: Geo sports || <a href='https://geo-sports.netlify.app/'>Live site</a>
